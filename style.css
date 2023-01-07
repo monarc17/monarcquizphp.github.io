@@ -1,0 +1,24 @@
+body {
+    background-image:url('2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    
+}
+
+.row{
+    background-color: transparent;
+}
+
+.panel-body {
+   background-image:  linear-gradient(rgb(38, 0, 255), rgb(0, 179, 255), rgb(0, 109, 128));
+}
+
+.panel-footer {
+    background-image:  linear-gradient(rgb(235, 255, 192), rgb(0, 87, 128), rgb(0, 179, 255));
+}
+.container{
+    color:rgb(4, 0, 0);
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
